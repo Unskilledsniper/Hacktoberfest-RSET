@@ -1,0 +1,6 @@
+#include<stdio.h>
+
+void main()
+{
+	printf("Id like to contribute too!!");
+}
